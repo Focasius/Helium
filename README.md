@@ -1,4 +1,4 @@
-# TerraFirma
+# Helium
 #### [ English | [中文](./README_CN.md) ]
 
 [![](https://img.shields.io/badge/OS-Linux-%2300BFFF?style=plastic&logo=linux&logoColor=%23FFFFFF)](https://www.linux.org/)
