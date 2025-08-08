@@ -8,7 +8,7 @@
 
 ### What is this?
 
->I stumbled upon it while exploring a used hard drive. I wonder if it could be a 3D sandbox game? I might not remember, though.Hey, just so you know, the program is still in the early stages of development, so it's not perfect just yet. But you can still download it and try it out for yourself! If you spot any little hiccups while you're using it, no worries! Just let us know in the issues section and we'll get right on it. And if you've got any ideas for new features, we'd love to hear them! Just let us know in the discussions.
+>I stumbled upon it while exploring a used hard drive. I wonder if it could be a 3D sandbox game? Hey, just so you know, the program is still in the early stages of development, so it's not perfect just yet. But you can still download it and try it out for yourself! If you spot any little hiccups while you're using it, no worries! Just let us know in the issues section and we'll get right on it. And if you've got any ideas for new features, we'd love to hear them! Just let us know in the discussions.
     
 ### Features
 >- Hey, let me have a think for a minute...
