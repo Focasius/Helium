@@ -3,23 +3,31 @@
 
 [![](https://img.shields.io/badge/OS-Linux-%2300BFFF?style=plastic&logo=linux&logoColor=%23FFFFFF)](https://www.linux.org/)
 [![](https://img.shields.io/badge/Code-Rust-%2300BFFF?style=plastic&logo=rust&logoColor=%23FFA500)](https://www.rust-lang.org/)
-[![](https://img.shields.io/badge/Code-.NET-%2300BFFF?style=plastic&logo=dotnet&logoColor=%23512BD4)](https://dot.net)
-![](https://img.shields.io/badge/Shell-Bash-%2300BFFF?style=plastic&logo=gnubash&logoColor=%234EAA25)
+[![](https://img.shields.io/badge/Shell-Bash-%2300BFFF?style=plastic&logo=gnubash&logoColor=%234EAA25)](https://www.gnu.org/software/bash/)
 
-### What is this?
+### Project Overview
+> Discovered during analysis of legacy storage media, Helium is an early-stage 3D sandbox game engine under active development. While still in prototype phase, the core framework demonstrates promising capabilities for interactive world-building. We invite developers to explore the current build, report issues, and contribute ideas through our discussion forums.
 
->I stumbled upon it while exploring a used hard drive. I wonder if it could be a 3D sandbox game? Hey, just so you know, the program is still in the early stages of development, so it's not perfect just yet. But you can still download it and try it out for yourself! If you spot any little hiccups while you're using it, no worries! Just let us know in the issues section and we'll get right on it. And if you've got any ideas for new features, we'd love to hear them! Just let us know in the discussions.
-    
-### Features
->- Hey, let me have a think for a minute...
+### Current Features
+- **Procedural Terrain Generation**: Dynamic landscape creation algorithms
+- **Voxel-based Environment**: Destructible/constructible block system
+- **Basic Physics Engine**: Gravity and collision detection
+- **Cross-platform Rendering**: Experimental Vulkan/OpenGL support
+- **Modular Architecture**: Decoupled systems for easy extension
 
-### Planned functions
-
->- Server
->- Client
+### Planned Features
+| Component       | Development Status | Key Functionality                      |
+| --------------- | ------------------ | -------------------------------------- |
+| **Server**      | Planning           | Multiplayer support, World persistence |
+| **Client**      | Design Phase       | UI/UX systems, Enhanced rendering      |
+| **Modding API** | Research           | Scriptable entities, Asset pipelines   |
 
 ### Documentation
->- Oh, I'm so sorry, but I'm afraid you'll have to wait a little longer.
+> Technical specifications and API references are in active development. Preview documentation available in `/docs/experimental` directory. Contributors welcome to help build comprehensive guides.
 
 ### Code Contributors
->- Hey there, there's nothing here just yet. 😊
+> Become our first contributor! We're seeking:
+> - Graphics programming experts
+> - Network engineers for multiplayer backend
+> - UI/UX designers
+> Submit PRs to `dev` branch following [CONTRIBUTING.md](./CONTRIBUTING.md)
